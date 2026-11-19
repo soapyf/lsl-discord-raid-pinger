@@ -1,6 +1,6 @@
 # lsl-discord-raid-pinger
 
-A Linden Scripting Language (LSL) script for Second Life combat communities that lets you turn any object into an interactive raid alert button. When clicked, it sends a Discord webhook notification containing the clicker's name, active group, and raider count—and keeps the alert updated live as the fight unfolds.
+A Linden Scripting Language (LSL) script for Second Life combat communities that lets you turn any object into an interactive raid alert button. When clicked, it sends a Discord webhook notification containing the clicker's name, active group, and raider count and keeps the alert updated live as the fight unfolds.
 
 ## Features
 - **Instant Raid Alerts:** Clickable object configuration that posts initial raid details (clicker name, group, and raider count) to a Discord webhook.
